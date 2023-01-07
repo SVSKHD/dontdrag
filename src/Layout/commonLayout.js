@@ -6,7 +6,9 @@ return(
     <>
     <div>
         <Header/>
+        <div className="body-part">
         {props.children}
+        </div>
         <Footer/>
     </div>
     </>

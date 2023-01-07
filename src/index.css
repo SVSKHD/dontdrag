@@ -5,3 +5,12 @@
   --bs-font-monospace: "Poppins";
   --bs-body-font-family:"Poppins"!important;
 }
+
+.body-part{
+min-height: 100vh;
+}
+
+.footer-style{
+  border-radius: 0px;
+  border-style: none;
+}
